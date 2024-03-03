@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "discord-simple-api": "^1.0.4"
+  }
+}
